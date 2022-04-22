@@ -3,7 +3,9 @@
   Procesamiento y visualizacion de datos geoespaciales con rgee
   <br>
 <h1>
-  
+## Junior Antonio Calvo Montañez
+![image](https://user-images.githubusercontent.com/51866276/164744562-2730c80c-c286-4289-9086-9d5c366cd282.png)
+
 ## rgee: An R package for interacting with Google Earth Engine
 
 ##### **Cesar Aybar** , Qiusheng Wu , Lesly Bautista , Roy Yali , and Antony Barja
