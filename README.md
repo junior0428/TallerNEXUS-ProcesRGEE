@@ -4,8 +4,9 @@
   <br>
 <h1>
 ## Junior Antonio Calvo Montañez
+  
 
-  ![image](https://user-images.githubusercontent.com/51866276/164744562-2730c80c-c286-4289-9086-9d5c366cd282.png)
+ <a href="https://icon-icons.com/es/icono/google-tierra-motor/104576"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Markdownify" width="187"></a>
 
 ## rgee: An R package for interacting with Google Earth Engine
 
