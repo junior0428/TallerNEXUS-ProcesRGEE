@@ -9,6 +9,9 @@
 
 | <a href="https://icon-icons.com/es/icono/google-tierra-motor/104576"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFk9ij4OWM1OQ/profile-displayphoto-shrink_800_800/0/1634232137600?e=1655942400&v=beta&t=_Z7XNQtL4LCmEB1GabTobB-MaWjlwzxbB43b5rBGOmE" alt="Markdownify" width="187"></a>| |Soy egresado de Ingeniería Geográfica de la Universidad Nacional Mayor de San Marcos. Apasionado a la programación y a temas relacionados a Teledetección y Sistema de Información Geográfica. Paso gran cantidad de tiempo programando en R y Python utilizando la plataforma de Google Earth Engine, y leyendo sobre Machine Learning y Deep Learning.  |
 
+  | Parameter| Description | Type | 
+  |--|:--|--|
+  
 ## rgee: An R package for interacting with Google Earth Engine
 
 ##### **Cesar Aybar** , Qiusheng Wu , Lesly Bautista , Roy Yali , and Antony Barja
