@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Introducción a Google Earth Engine con R
+  Procesamiento y visualizacion de datos geoespaciales con rgee
   <br>
 <h1>
   
