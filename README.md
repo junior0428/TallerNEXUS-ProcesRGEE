@@ -3,10 +3,11 @@
   Procesamiento y visualizacion de datos geoespaciales con rgee
   <br>
 <h1>
+  
 ## Junior Antonio Calvo Montañez
   
 
- <a href="https://icon-icons.com/es/icono/google-tierra-motor/104576"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Markdownify" width="187"></a>
+ <a href="https://icon-icons.com/es/icono/google-tierra-motor/104576"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFk9ij4OWM1OQ/profile-displayphoto-shrink_800_800/0/1634232137600?e=1655942400&v=beta&t=_Z7XNQtL4LCmEB1GabTobB-MaWjlwzxbB43b5rBGOmE" alt="Markdownify" width="187"></a>
 
 ## rgee: An R package for interacting with Google Earth Engine
 
