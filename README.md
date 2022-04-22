@@ -68,7 +68,7 @@ Google Earth Engine admite oficialmente bibliotecas de clientes solo para los le
 
   ![image](https://user-images.githubusercontent.com/51866276/112390475-628fc500-8cc4-11eb-9105-8d0f107f19dc.png) 
 
-## 3. Sintaxis de rgee
+## 5. Sintaxis de rgee
 
 <table>
 <tr>
@@ -113,11 +113,11 @@ image$bandNames()$getInfo()
 </tr>
 </table>
 
-## 4. GEE- API
+## 6. GEE- API
 
 ![image](https://user-images.githubusercontent.com/51866276/112393470-1bf09980-8cc9-11eb-9f2e-c207065c6f02.png)
 
-## 5. instalación de rgee
+## 7. instalación de rgee
 
 Si utilizas la versión 4.0 en el sistema operativo de Windows, de preferencia es recomendable tener instalado [Rtools](https://cran.r-project.org/bin/windows/Rtools/). 
 
@@ -140,8 +140,6 @@ ee_install()
   probando la URL 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe'
   Content type 'application/octet-stream' length 59801432 bytes (57.0 MB)
   downloaded 57.0 MB
-  ![image](https://user-images.githubusercontent.com/51866276/112393901-cc5e9d80-8cc9-11eb-9503-041e8a0f43ad.png)
-
   ```
   ``` r
   # To activate this environment, use
