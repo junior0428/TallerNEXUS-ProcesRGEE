@@ -4,16 +4,6 @@
   <br>
 <h1>
   
-## Junior Antonio Calvo Montañez
-  
-
-| <a href="https://icon-icons.com/es/icono/google-tierra-motor/104576"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFk9ij4OWM1OQ/profile-displayphoto-shrink_800_800/0/1634232137600?e=1655942400&v=beta&t=_Z7XNQtL4LCmEB1GabTobB-MaWjlwzxbB43b5rBGOmE" alt="Markdownify" width="187"></a>|Soy egresado de Ingeniería Geográfica de la Universidad Nacional Mayor de San Marcos. Apasionado a la programación y a temas relacionados a Teledetección y Sistema de Información Geográfica. Paso gran cantidad de tiempo programando en R y Python utilizando la plataforma de Google Earth Engine, y leyendo sobre Machine Learning y Deep Learning.|
-
-  | Parameter| Description | Type | 
-  |--|:--|--|
-  
-## rgee: An R package for interacting with Google Earth Engine
-
 ##### **Cesar Aybar** , Qiusheng Wu , Lesly Bautista , Roy Yali , and Antony Barja
 
 <h1 align="center">
@@ -25,6 +15,10 @@
 
 ## 1. ¿Qué es GEE? 
 **Google Earth Engine** (GEE) es una plataforma gratis en la nube que esta diseñada para el análisis de datos espaciales a una escala planetaria que incorpora las capacidades computacionales masivas de Google. Esta plataforma integrada está diseñada para potenciar no solo a los científicos tradicionales de teledetección, sino también a una audiencia mucho mas amplia que carece de capacidad técnica necesaria para utilizar supercomputadoras tradicionales o recursos de computación en la nube de productos básicos a gran escala.
+  
+  ![image](https://user-images.githubusercontent.com/51866276/164755425-1fab6e96-b09a-44ad-b0f6-a7d225a5a8ce.png)
+
+  
 <table  align="center">
   <tr>
     <th> GEE </th>
@@ -41,11 +35,38 @@
   </td>
   </td>
 <table>
+
+## 2. Componentes principales de GEE
+<table  align="center">
+  <tr>
+    <th> Acceder a catálogos de datos espaciales del planeta </th>
+    <th> Ejecutar algoritmos en la infraestructura de Google </th>
+  <tr>
+<table>
+
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/51866276/164759513-3c47cbca-e68a-433e-a7cf-1d9fd9a3611d.png" width="80%"/>
+  </p>
+
+ <table  align="center">
+  <tr>
+    <th> API's </th>
+  <tr>
+<table>
+ 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/51866276/164758847-5f4aba04-f45f-4f22-babf-32306c0bcd17.png" width="40%"/>
+  </p>
+
+## 3. Procesamiento en GEE
+  ![image](https://user-images.githubusercontent.com/51866276/164761440-22f7c9a5-fb09-4056-9c29-8a26fc02a579.png)
+![image](https://user-images.githubusercontent.com/51866276/164761482-7fb224a6-fe56-45e5-b389-a6d11c8fac2d.png)
+
+## 4. ¿Que es exactamente rgee?
   
-## 2. Funcionamiento de rgee
+Google Earth Engine admite oficialmente bibliotecas de clientes solo para los lenguajes de programación JavaScript y Python. Si bien Earth Engine Code Editor (para programar en JavaScript) ofrece un entorno conveniente para la creación rápida de prototipos, la falta de mecanismos para la integración con entornos locales dificulta el desarrollo de scripts complejos. Por otro lado, la biblioteca de cliente de Python ofrece mucha versatilidad, lo que permite la compatibilidad con paquetes de terceros. Sin embargo, no todos los científicos ambientales y de la Tierra codifican en Python. Por lo tanto, un número significativo de profesionales no son miembros de la comunidad Earth Engine. En el ecosistema R, rgee (Aybar et al. 2020) intenta llenar este vacío envolviendo la API Python de Earth Engine a través de reticulate (Kevin Ushey et al. 2021). Rgee amplía y admite todas las clases, módulos y funciones de Earth Engine, y funciona tan rápido como las otras API.
 
-![image](https://user-images.githubusercontent.com/51866276/112390475-628fc500-8cc4-11eb-9105-8d0f107f19dc.png) 
-
+  ![image](https://user-images.githubusercontent.com/51866276/112390475-628fc500-8cc4-11eb-9105-8d0f107f19dc.png) 
 
 ## 3. Sintaxis de rgee
 
